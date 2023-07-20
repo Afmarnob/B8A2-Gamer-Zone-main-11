@@ -633,3 +633,205 @@ img{
     font-weight: 600;
     text-transform: uppercase;
 }
+.game5{
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+
+}
+.Rectangle11{
+    position:absolute;
+    margin-top: 300px;
+    top: 4863.83px;
+    left: 249px;
+    right: 1611px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Action{
+    position:absolute;
+    margin-top: 300px;
+    top: 4882.83px;
+    left: 325px;
+    right: 1458px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Rectangle12{
+    position:absolute;
+    margin-top: 300px;
+    top: 4863.83px;
+    left:519px;
+    right: 1341px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Adventure{
+    position:absolute;
+    margin-top: 300px;
+    top: 4882.83px;
+    left: 595px;
+    right: 1150px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Rectangle13{
+    position:absolute;
+    margin-top: 300px;
+    top: 4863.83px;
+    left:827px;
+    right: 1033px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Arcade{
+    position:absolute;
+    margin-top: 300px;
+    top: 4882.83px;
+    left: 903px;
+    right: 875px;
+    color:#FF42A5;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Rectangle14{
+    position:absolute;
+    margin-top: 300px;
+    top: 4863.83px;
+    left:1109px;
+    right: 751px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Educational{
+    position:absolute;
+    margin-top: 300px;
+    top: 4882.83px;
+    left: 1185px;
+    right: 546px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Rectangle15{
+    position:absolute;
+    margin-top: 300px;
+    top: 4863.83px;
+    left:1417px;
+    right: 443px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Word{
+    position:absolute;
+    margin-top: 300px;
+    top: 4882.83px;
+    left: 1493px;
+    right:302px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Rectangle16{
+    position:absolute;
+    margin-top: 300px;
+    top: 4971px;
+    left:335px;
+    right: 1525px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Role {
+    position:absolute;
+    margin-top: 300px;
+    top: 4990px;
+    left: 411px;
+    right:1316px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Rectangle17{
+    position:absolute;
+    margin-top: 300px;
+    top: 4971px;
+    left:667px;
+    right: 1193px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Music{
+    position:absolute;
+    margin-top: 300px;
+    top: 4990px;
+    left: 743px;
+    right:966px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Rectangle18{
+    position:absolute;
+    margin-top: 300px;
+    top: 4971px;
+    left:1013px;
+    right: 847px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Puzzle{
+    position:absolute;
+    margin-top: 300px;
+    top: 4990px;
+    left: 1089px;
+    right:693px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Rectangle19{
+    position:absolute;
+    margin-top: 300px;
+    top: 4971px;
+    left:1291px;
+    right: 569px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.Strategy{
+    position:absolute;
+    margin-top: 300px;
+    top: 4990px;
+    left: 1367px;
+    right:393px;
+    color: #0B0223;
+    font-size: 20px;
+    font-weight: 600;
+}
+.game6{
+    width: 1920px;
+    height: 636px;
+    align-items: end;
+    top: 4733px;
+    background-color: #333; */
+    color: #fff;
+    padding: 0px;
+} 
